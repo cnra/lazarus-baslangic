@@ -31,6 +31,11 @@ begin
 end;
 
 
+function toplama(x,y:real):real;
+begin
+  toplama := x + y;
+end;
+
 begin
 
   x := 0;
@@ -72,6 +77,10 @@ begin
   //readln;
 
   carp(3,7);
+
+  writeln(toplama(2,2):0:2);
+
+
 
   cikis;
 
