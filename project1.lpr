@@ -71,7 +71,7 @@ begin
   //writeln ('girdi basarili: ', girdi);
   //readln;
 
-  carp(3,5);
+  carp(3,7);
 
   cikis;
 
